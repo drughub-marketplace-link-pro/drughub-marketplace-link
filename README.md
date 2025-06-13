@@ -25,4 +25,6 @@ If you are seeking to explore everything this darknet marketplace offers, priori
 <a href="http://ys4fenuwwagecir4avgajycoozdmyn2prxbkeq6vngtr7bvbe6pdt6qd.onion"><img src="/archive/basic.webp" alt="image" style="max-width: 100%;"><a>  
 <a href="http://ys4fenuwwagecir4avgajycoozdmyn2prxbkeq6vngtr7bvbe6pdt6qd.onion"><img src="/archive/trace.webp" alt="image" style="max-width: 100%;"><a>
 
-Update:  11 June
+
+
+Update:  06/13/2025 Updated environment setup documentation
