@@ -31,4 +31,6 @@ If you are seeking to explore everything this darknet marketplace offers, priori
 
 
 
-Update: link is back online and operational
+
+
+Update: Link is now clickable
