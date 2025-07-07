@@ -41,4 +41,6 @@ If you are seeking to explore everything this darknet marketplace offers, priori
 
 
 
-Update: url is now live and reachable
+
+
+Update:  07.07.2025 Footer URLs
