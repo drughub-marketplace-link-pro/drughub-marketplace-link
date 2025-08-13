@@ -53,4 +53,6 @@ If you are seeking to explore everything this darknet marketplace offers, priori
 
 
 
-Update:  04.08.2025 onion URL corrections
+
+
+Update:  13 August
